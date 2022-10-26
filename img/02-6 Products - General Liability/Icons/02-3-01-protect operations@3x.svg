@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>02-3-01-protect operations@3x</title>
+    <g id="--------General-Liability" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-6-1-General-Liability-1920" transform="translate(-980.000000, -2182.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(979.000000, 2180.000000)">
+                <g id="02-3-01-protect-operations" transform="translate(1.000000, 2.000000)">
+                    <g id="подложка" fill="#E9EBF4">
+                        <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                    </g>
+                    <g id="shadow" transform="translate(29.365783, 17.643882)" fill="#2942D1" opacity="0.1">
+                        <polygon id="Path" points="0 42.6429917 23.7141759 66.3558551 54.5919544 66.3558551 54.5919544 20.5799357 34.0133312 0"></polygon>
+                    </g>
+                    <g id="Слой_1" transform="translate(20.617801, 15.272675)">
+                        <path d="M0,24.9453758 L0,2.37186384 C7.05726919,1.04633114 14.2042408,0.25347359 21.3804401,0 L21.3818576,0 L21.3818576,24.9453758 L0,24.9453758 Z" id="Path" fill="#2942D1"></path>
+                        <path d="M0,24.9453758 C0,44.9898132 21.355752,53.4422867 21.3818707,53.454388 L21.3818707,24.9453758 L0,24.9453758 Z" id="Path" fill="#2942D1"></path>
+                        <g id="Group" opacity="0.6" transform="translate(0.000000, 24.945376)" fill="#FFFFFF">
+                            <path d="M0,0 C0,20.0444374 21.355752,28.4969109 21.3818707,28.5090122 L21.3818707,0 L0,0 Z" id="Path"></path>
+                        </g>
+                        <path d="M42.7608801,24.9453758 L42.7608801,2.37186384 C35.7036109,1.04633114 28.5566394,0.25347359 21.3804401,0 L21.3790226,0 L21.3790226,24.9453758 L42.7608801,24.9453758 Z" id="Path" fill="#2942D1"></path>
+                        <g id="Group" opacity="0.6" transform="translate(21.379023, 0.000000)" fill="#FFFFFF">
+                            <path d="M21.3818576,24.9453758 L21.3818576,2.37186384 C14.3245884,1.04633114 7.1776168,0.25347359 0.00141749557,0 L0,0 L0,24.9453758 L21.3818576,24.9453758 Z" id="Path"></path>
+                        </g>
+                        <path d="M42.7608801,24.9453758 C42.7608801,44.9898132 21.4051281,53.4422867 21.3790094,53.454388 L21.3790094,24.9453758 L42.7608801,24.9453758 Z" id="Path" fill="#2942D1"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

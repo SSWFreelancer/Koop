@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>07-1-12-universities@3x</title>
+    <g id="-------About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-1-1-About-Us-1920" transform="translate(-1425.000000, -5881.000000)" fill-rule="nonzero">
+            <g id="07-1-12-universities" transform="translate(1425.000000, 5881.000000)">
+                <g id="bg" fill="#DEE2F8">
+                    <path d="M0,0 L64,0 L64,64 L14.54545,64 C6.51221979,64 0,57.4877802 0,49.45455 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(8.727000, 26.182000)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="55.273 37.818 55.273 8.727 46.546 3.55271368e-15 -3.55271368e-15 2.618 9.84 12.458 8.727 18.131 28.415 37.818"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(5.298000, 14.545000)">
+                    <polygon id="Path" fill="#2942D1" points="48.229 26.182 48.229 13.018 45.902 13.018 45.902 26.182 45.611 26.182 45.611 34.91 48.52 34.91 48.52 26.182"></polygon>
+                    <path d="M12.15654,16.44448 L12.15654,29.76759 C21.2348524,34.6664883 32.1693445,34.6664695 41.24764,29.76754 L41.24764,16.44448 L12.15654,16.44448 Z" id="Path" fill="#2942D1"></path>
+                    <polygon id="Path" fill="#2942D1" points="26.702 23.273 49.975 11.637 26.702 -1.77635684e-15 3.429 11.637"></polygon>
+                    <g id="Group" opacity="0.6" transform="translate(3.429000, 0.000000)" fill="#FFFFFF">
+                        <polygon id="Path" points="23.273 23.273 46.546 11.637 23.273 -1.77635684e-15 3.55271368e-15 11.637"></polygon>
+                    </g>
+                    <polygon id="Path" fill="#2942D1" points="26.702 25.738 -1.77635684e-15 12.387 1.041 10.305 26.702 23.136 52.363 10.305 53.404 12.387"></polygon>
+                    <ellipse id="Oval" fill="#2942D1" cx="26.702" cy="11.63682" rx="2.06075" ry="1.30909"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

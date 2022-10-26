@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="186px" height="186px" viewBox="0 0 186 186" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01-1-10-sign up</title>
+    <g id="---01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-1-1-Home-1920" transform="translate(-396.000000, -8139.000000)">
+            <g id="Group-5-Copy" transform="translate(274.000000, 7905.000000)">
+                <g id="01-1-10-sign-up" transform="translate(122.000000, 234.000000)">
+                    <g id="bg" fill="#D9D9D9" fill-rule="nonzero" opacity="0">
+                        <g id="подложка_2">
+                            <path d="M0,0 L186,0 L186,186 L42.2727273,186 C18.9261447,186 0,167.073855 0,143.727273 L0,0 Z" id="Path"></path>
+                        </g>
+                    </g>
+                    <g id="shadow" transform="translate(76.105731, 67.636945)" fill="#D9D9D9" opacity="0.065">
+                        <polygon id="Path" points="109.893688 118.362474 0 118.362474 0 0 109.893688 85.7777007"></polygon>
+                    </g>
+                    <g id="Слой_1" transform="translate(33.833120, 25.363636)" fill-rule="nonzero">
+                        <rect id="Rectangle" fill="#FFFFFF" x="38.8907928" y="0" width="6.7636073" height="20.7895328"></rect>
+                        <polygon id="Rectangle" fill="#FFFFFF" transform="translate(19.731483, 19.731461) rotate(-45.000000) translate(-19.731483, -19.731461) " points="16.3494468 9.33666552 23.1135191 9.33666552 23.1135191 30.1262565 16.3494468 30.1262565"></polygon>
+                        <polygon id="Rectangle" fill="#FFFFFF" transform="translate(19.731473, 64.813525) rotate(-45.000000) translate(-19.731473, -64.813525) " points="9.33653181 61.4314887 30.1264134 61.4314887 30.1264134 68.195561 9.33653181 68.195561"></polygon>
+                        <polygon id="Rectangle" fill="#FFFFFF" transform="translate(64.813316, 19.731470) rotate(-45.000000) translate(-64.813316, -19.731470) " points="54.4185202 16.3494337 75.2081112 16.3494337 75.2081112 23.113506 54.4185202 23.113506"></polygon>
+                        <rect id="Rectangle" fill="#FFFFFF" x="63.7552533" y="38.8907928" width="20.7899397" height="6.7636073"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="0" y="38.8907928" width="20.7895328" height="6.7636073"></rect>
+                        <polygon id="Path" fill="#BCBCBC" points="111.362676 96.1608276 42.2348299 42.2733085 42.2348299 129.922628 65.7434127 109.128475 78.5134353 135.273018 93.2771391 128.062634 80.5071165 101.918091"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

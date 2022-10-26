@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>03-1-01-insurance@3x</title>
+    <g id="-------Industries" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-1-1-Industries-1920" transform="translate(-372.000000, -4104.000000)" fill-rule="nonzero">
+            <g id="03-1-01-insurance" transform="translate(372.000000, 4104.000000)">
+                <g id="bg" fill="#DEE2F8">
+                    <path d="M0,0 L84,0 L84,84 L19.0909031,84 C8.54728847,84 0,75.4527115 0,64.9090969 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(29.365875, 17.643937)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="0 42.643125 23.71425 66.3560625 54.592125 66.3560625 54.592125 20.58 34.0134375 0"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(20.617866, 15.272723)">
+                    <path d="M0,24.9454537 L0,2.37187125 C7.05729124,1.04633441 14.2042851,0.253474382 21.3805069,0 L21.3819244,0 L21.3819244,24.9454537 L0,24.9454537 Z" id="Path" fill="#2942D1"></path>
+                    <path d="M0,24.9454538 C0,44.9899538 21.3558188,53.4424538 21.3819375,53.454555 L21.3819375,24.9454538 L0,24.9454538 Z" id="Path" fill="#2942D1"></path>
+                    <g id="Group" opacity="0.6" transform="translate(0.000000, 24.945454)" fill="#FFFFFF">
+                        <path d="M0,0 C0,20.0445 21.3558188,28.497 21.3819375,28.5091012 L21.3819375,0 L0,0 Z" id="Path"></path>
+                    </g>
+                    <path d="M42.7610137,24.9454537 L42.7610137,2.37187125 C35.7037225,1.04633441 28.5567286,0.253474382 21.3805069,0 L21.3790894,0 L21.3790894,24.9454537 L42.7610137,24.9454537 Z" id="Path" fill="#2942D1"></path>
+                    <g id="Group" opacity="0.6" transform="translate(21.379089, 0.000000)" fill="#FFFFFF">
+                        <path d="M21.3819244,24.9454537 L21.3819244,2.37187125 C14.3246331,1.04633441 7.17763923,0.253474382 0.0014175,0 L0,0 L0,24.9454537 L21.3819244,24.9454537 Z" id="Path"></path>
+                    </g>
+                    <path d="M42.7610138,24.9454538 C42.7610138,44.9899538 21.405195,53.4424538 21.3790763,53.454555 L21.3790763,24.9454538 L42.7610138,24.9454538 Z" id="Path" fill="#2942D1"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>07-1-02-diversity@3x</title>
+    <g id="-------About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-1-1-About-Us-1920" transform="translate(-748.000000, -3724.000000)" fill-rule="nonzero">
+            <g id="07-1-02-diversity" transform="translate(748.000000, 3724.000000)">
+                <g id="подложка" fill="#E9EBF4" transform="translate(-0.000000, 0.000000)">
+                    <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(15.272110, 15.272202)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="68.7275352 22.3439302 51.1256527 4.74204768 38.3695051 15.4598892 22.9096159 0 0 22.9096159 14.0240187 36.9323221 4.84179737 53.455333 19.9971875 68.6107231 45.7011072 68.6107231 45.8192318 68.7275352 68.6382855 68.7275352 68.6382855 45.7299821 68.5503483 45.6420449"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(13.500241, 15.272688)">
+                    <circle id="Oval" fill="#2942D1" cx="43.6190293" cy="11.4545061" r="11.4545061"></circle>
+                    <g id="Group" opacity="0.6" transform="translate(32.164523, 0.000000)" fill="#FFFFFF">
+                        <circle id="Oval" cx="11.4545061" cy="11.4545061" r="11.4545061"></circle>
+                    </g>
+                    <rect id="Rectangle" fill="#2942D1" x="1.77243384" y="0" width="22.9090384" height="22.9090253"></rect>
+                    <polygon id="Path" fill="#2942D1" points="19.839688 30.5452314 6.61366683 30.5452314 0 41.9993831 6.61366683 53.4548473 19.839688 53.4548473 26.4533548 41.9993831"></polygon>
+                    <g id="Group" opacity="0.3" transform="translate(0.000000, 30.545231)" fill="#FFFFFF">
+                        <polygon id="Path" points="19.839688 0 6.61366683 0 0 11.4541517 6.61366683 22.9096159 19.839688 22.9096159 26.4533548 11.4541517"></polygon>
+                    </g>
+                    <polygon id="Path" fill="#2942D1" points="43.6194887 30.5452314 30.4092175 53.4259724 56.8297599 53.4259724"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

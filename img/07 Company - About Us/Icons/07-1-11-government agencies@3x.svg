@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>07-1-11-government agencies@3x</title>
+    <g id="-------About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-1-1-About-Us-1920" transform="translate(-1091.000000, -5881.000000)" fill-rule="nonzero">
+            <g id="07-1-11-government-agencies" transform="translate(1091.000000, 5881.000000)">
+                <g id="bg" fill="#DEE2F8">
+                    <path d="M0,0 L64,0 L64,64 L14.54545,64 C6.51221979,64 0,57.4877802 0,49.45455 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(8.728000, 20.622000)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="43.636 0 2.909 4.364 6.322 7.777 9.454 13.818 6.909 26.182 4.363 28.474 8.063 32.173 -1.77635684e-15 33.128 10.249 43.378 55.272 43.378 55.272 11.636"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(8.727800, 11.895000)">
+                    <polyline id="Path" fill="#2942D1" points="11.6362 16.378 11.6362 36.068 5.8182 36.068 5.8182 16.378"></polyline>
+                    <g id="Group" opacity="0.6" transform="translate(5.818200, 16.378000)" fill="#FFFFFF">
+                        <polyline id="Path" points="5.818 -7.10542736e-15 5.818 19.69 0 19.69 0 -7.10542736e-15"></polyline>
+                    </g>
+                    <polyline id="Path" fill="#2942D1" points="26.1812 16.378 26.1812 36.068 20.3632 36.068 20.3632 16.378"></polyline>
+                    <g id="Group" opacity="0.6" transform="translate(20.363200, 16.378000)" fill="#FFFFFF">
+                        <polyline id="Path" points="5.818 -7.10542736e-15 5.818 19.69 0 19.69 0 -7.10542736e-15"></polyline>
+                    </g>
+                    <polyline id="Path" fill="#2942D1" points="40.7272 16.378 40.7272 36.068 34.9082 36.068 34.9082 16.378"></polyline>
+                    <g id="Group" opacity="0.6" transform="translate(34.908200, 16.378000)" fill="#FFFFFF">
+                        <polyline id="Path" points="5.819 -7.10542736e-15 5.819 19.69 -7.10542736e-15 19.69 -7.10542736e-15 -7.10542736e-15"></polyline>
+                    </g>
+                    <rect id="Rectangle" fill="#2942D1" x="-1.77635684e-15" y="39.56306" width="46.54492" height="2.32727"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="33.4541" y="15.09925" width="8.72705" height="2.32727"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="18.90869" y="15.09925" width="8.72705" height="2.32727"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="4.36328" y="15.09925" width="8.72754" height="2.32727"></rect>
+                    <polygon id="Path" fill="#2942D1" points="43.6362 8.727 23.2722 3.55271368e-15 2.9082 8.727 2.9082 13.091 43.6362 13.091"></polygon>
+                    <rect id="Rectangle" fill="#2942D1" x="4.36328" y="34.904" width="37.81787" height="2.32727"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

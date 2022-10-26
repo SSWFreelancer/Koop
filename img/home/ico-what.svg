@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01-1-01-proprietary coverage@3x</title>
+    <g id="---01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-1-1-Home-1920" transform="translate(-372.000000, -1525.000000)">
+            <g id="Autonomy-Insurance-Technology" transform="translate(162.000000, 1135.000000)">
+                <g id="1" transform="translate(0.000000, 321.000000)">
+                    <g id="01-1-01-proprietary-coverage" transform="translate(210.000000, 69.000000)">
+                        <g id="bg" fill="#E9EBF4" fill-rule="nonzero">
+                            <g id="подложка">
+                                <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                            </g>
+                        </g>
+                        <g id="shadow" transform="translate(29.366018, 17.644582)" fill="#2942D1" fill-rule="nonzero" opacity="0.1">
+                            <polygon id="Path" points="0 42.6418364 23.7135818 66.3554182 54.5919818 66.3554182 54.5919818 20.5792364 34.0127455 0"></polygon>
+                        </g>
+                        <g id="Слой_1" transform="translate(20.617873, 15.272727)" fill-rule="nonzero">
+                            <path d="M0,24.9454533 L0,2.37185455 C0,2.37185455 12.5190431,0 21.3805009,0 L21.3819175,0 L21.3819175,24.9454533 L0,24.9454533 Z" id="Path" fill="#2942D1"></path>
+                            <path d="M0,24.9454533 C0,44.9899036 21.3558125,53.4424189 21.3819175,53.4545455 L21.3819175,24.9454533 L0,24.9454533 Z" id="Path" fill="#2942D1"></path>
+                            <path d="M0,24.9454533 C0,44.9899036 21.3558125,53.4424189 21.3819175,53.4545455 L21.3819175,24.9454533 L0,24.9454533 Z" id="Path" fill="#FFFFFF" opacity="0.6"></path>
+                            <path d="M42.7610056,24.9454533 L42.7610056,2.37185455 C42.7610056,2.37185455 30.2419587,0 21.3805009,0 L21.3790729,0 L21.3790729,24.9454533 L42.7610056,24.9454533 Z" id="Path" fill="#2942D1"></path>
+                            <path d="M42.7610056,24.9454533 L42.7610056,2.37185455 C42.7610056,2.37185455 30.2419587,0 21.3805009,0 L21.3790729,0 L21.3790729,24.9454533 L42.7610056,24.9454533 Z" id="Path" fill="#FFFFFF" opacity="0.6"></path>
+                            <path d="M42.7610056,24.9454533 C42.7610056,44.9899036 21.4051893,53.4424189 21.3790844,53.4545455 L21.3790844,24.9454533 L42.7610056,24.9454533 Z" id="Path" fill="#2942D1"></path>
+                        </g>
+                        <g id="Слой_4">
+                            <rect id="Rectangle" x="0" y="0" width="84" height="84"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

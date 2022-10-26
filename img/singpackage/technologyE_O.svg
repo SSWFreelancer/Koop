@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>02-7-02-technology E&amp;O@3x</title>
+    <g id="--------Singularity-Package" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-1-1-Singularity-Package-1920" transform="translate(-939.000000, -1048.000000)" fill-rule="nonzero">
+            <g id="02-7-02-technology-E&amp;O" transform="translate(939.000000, 1048.000000)">
+                <g id="bg" fill="#DEE2F8">
+                    <path d="M0,0 L85,0 L85,85 L19.3181758,85 C8.6490419,85 0,76.3509581 0,65.6818242 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(15.454062, 23.210312)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="69.5392969 61.7896875 69.5392969 15.4474219 54.091875 0 0 38.6072656 23.1824219 61.7896875"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(15.454062, 19.346797)">
+                    <rect id="Rectangle" fill="#2942D1" x="0.000478125" y="11.5903742" width="54.0909055" height="30.8810047"></rect>
+                    <g id="Group" opacity="0.6" transform="translate(0.000478, 11.590374)" fill="#FFFFFF">
+                        <rect id="Rectangle" x="0" y="0" width="54.0909055" height="30.8810047"></rect>
+                    </g>
+                    <polygon id="Path" fill="#2942D1" points="20.1582812 35.8514062 11.3382031 27.0313281 20.1582812 18.21125 22.3430469 20.3960156 15.7090625 27.0313281 22.3430469 33.6653125"></polygon>
+                    <polygon id="Path" fill="#2942D1" points="34.0398438 35.8514062 31.85375 33.6653125 38.4877344 27.0313281 31.85375 20.3960156 34.0398438 18.21125 42.8599219 27.0313281"></polygon>
+                    <polygon id="Path" fill="#2942D1" points="54.091875 11.5626562 54.091875 3.86351562 19.3189063 3.86351562 15.4553906 0 0 0 0 11.5626562"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

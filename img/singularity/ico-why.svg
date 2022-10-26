@@ -1,0 +1,16 @@
+<svg width="84" height="84" viewBox="0 0 84 84" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M84 0v84H20.723C9.278 84 0 74.722 0 63.277V0h84z" id="a32bhf6e9a"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="z8ah1t68gb" fill="#fff">
+            <use xlink:href="#a32bhf6e9a"/>
+        </mask>
+        <use fill="#E9EBF4" xlink:href="#a32bhf6e9a"/>
+        <path fill-opacity=".152" fill="#2942D1" opacity=".7" mask="url(#z8ah1t68gb)" d="M64.379 25.308 84 56.002V84H41.786L17.6 56.002l15.027-17.256 8.7 2.417z"/>
+        <circle fill="#A1AEE9" mask="url(#z8ah1t68gb)" cx="42.315" cy="42.315" r="28.538"/>
+        <text mask="url(#z8ah1t68gb)" font-family="Poppins-Medium, Poppins" font-size="12" font-weight="400" fill="#2942D1">
+                            <tspan x="31.881" y="38.076">ICO</tspan>
+                        </text>
+    </g>
+</svg>

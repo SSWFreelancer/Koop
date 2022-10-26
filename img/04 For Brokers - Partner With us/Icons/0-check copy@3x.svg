@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0-check copy@3x</title>
+    <g id="-------Partner-With-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-1-1-Partner-With-Us-1920" transform="translate(-1254.000000, -1328.000000)">
+            <g id="0-check-copy" transform="translate(1254.000000, 1328.000000)">
+                <g id="bg" fill="#E9EBF4" fill-rule="nonzero">
+                    <g id="подложка">
+                        <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                    </g>
+                </g>
+                <g id="shadow" transform="translate(23.101145, 23.101145)" fill="#2942D1" fill-rule="nonzero" opacity="0.1">
+                    <polygon id="Path" points="0 37.7977091 23.1007636 60.8988545 60.8988545 60.8988545 60.8988545 23.1007636 37.7977091 0"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(15.272727, 15.272727)">
+                    <circle id="Oval" fill="#2942D1" fill-rule="nonzero" cx="26.7272727" cy="26.7272727" r="26.7272727"></circle>
+                    <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.6" cx="26.7272727" cy="26.7272727" r="26.7272727"></circle>
+                    <circle id="Oval" stroke="#2942D1" stroke-width="3.05454545" cx="26.7272727" cy="26.7272727" r="15.0376915"></circle>
+                    <polyline id="Path" stroke="#2942D1" stroke-width="3.05454545" points="38.2776545 19.0828909 24.8876727 32.4732545 18.1924909 25.7780727"></polyline>
+                </g>
+                <g id="Слой_4">
+                    <rect id="Rectangle" x="0" y="0" width="84" height="84"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

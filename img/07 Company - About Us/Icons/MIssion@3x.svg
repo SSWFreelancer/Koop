@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MIssion@3x</title>
+    <defs>
+        <path d="M83.3748241,3.81124851e-13 C83.3748241,27.7935422 83.3748241,55.5812819 83.3748241,83.3748241 C62.2498827,83.3748241 41.1249414,83.3748241 20,83.3748241 C8.954305,83.3748241 3.73078821e-14,74.4205191 3.59551746e-14,63.3748241 C3.59551746e-14,42.2498827 3.59551746e-14,21.1249414 3.59551746e-14,3.81124851e-13 C27.7935422,3.81124851e-13 55.5812819,3.81124851e-13 83.3748241,3.81124851e-13 Z" id="path-1"></path>
+    </defs>
+    <g id="-------About-Us" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-1-1-About-Us-1920" transform="translate(-918.000000, -4463.000000)">
+            <g id="Group" transform="translate(530.000000, 4463.000000)">
+                <g id="MIssion" transform="translate(388.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#E9EBF4" xlink:href="#path-1"></use>
+                    <polygon id="Rectangle" fill-opacity="0.151606206" fill="#2942D1" opacity="0.7" mask="url(#mask-2)" points="47.060241 30.7016225 83.3748241 55.5853504 83.3748241 83.3748241 41.4749545 83.3748241 17.2048193 64.7710843 32.3855422 38.4578313 41.0206946 40.8568153"></polygon>
+                    <polygon id="Triangle-Copy" fill="#A1AEE9" mask="url(#mask-2)" points="32.3855422 38.4578313 47.5662651 64.7710843 17.2048193 64.7710843"></polygon>
+                    <rect id="Rectangle" fill="#A1AEE9" mask="url(#mask-2)" x="46.5542169" y="19.2289157" width="2.02409639" height="15.1807229"></rect>
+                    <polygon id="Triangle" fill="#2942D1" mask="url(#mask-2)" points="47.060241 30.3614458 66.7951807 64.7710843 27.3253012 64.7710843"></polygon>
+                    <rect id="Rectangle" fill="#2942D1" mask="url(#mask-2)" x="46.5542169" y="19.2289157" width="10.1204819" height="6.07228916"></rect>
+                    <polygon id="Triangle-Copy-2" fill="#A1AEE9" mask="url(#mask-2)" points="47.060241 30.3614458 53.0005026 40.7188251 48.972596 44.7235566 44.9446894 39.5731223 40.9167827 41.0731165"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

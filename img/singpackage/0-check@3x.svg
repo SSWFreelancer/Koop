@@ -1,0 +1,27 @@
+<svg width="84" height="84" viewBox="0 0 84 84" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <clipPath id="ydgtngpj2a">
+            <path d="M1920 0v9363H0V0h1920z"/>
+        </clipPath>
+        <clipPath id="dtnux580cb">
+            <path d="M84 0v84H19.09C8.548 84 0 75.453 0 64.91V0h84z"/>
+        </clipPath>
+        <clipPath id="vix5mziy7c">
+            <path d="M22.173 0 47 24.524V53l-15.561-.044L0 21.902 22.173 0z"/>
+        </clipPath>
+        <clipPath id="uuiiqncu5d">
+            <path d="M31.819 0 34 2.14 11.698 24 0 12.536l2.182-2.14 9.516 9.33L31.818 0z"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#ydgtngpj2a)" transform="translate(-368 -2527)">
+        <g clip-path="url(#dtnux580cb)" transform="translate(368 2527)">
+            <path fill="#E9EBF3" d="M0 0h84v84H0V0z"/>
+        </g>
+        <g clip-path="url(#vix5mziy7c)" transform="translate(405 2558)">
+            <path fill="#2941D1" opacity="10%" d="M0 0h47v53H0V0z"/>
+        </g>
+        <g clip-path="url(#uuiiqncu5d)" transform="translate(395 2557)">
+            <path fill="#2941D1" d="M0 0h34v24H0V0z"/>
+        </g>
+    </g>
+</svg>

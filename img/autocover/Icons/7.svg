@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>02-2-10-data sharing@3x</title>
+    <g id="--------Autonomy-Cover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-2-1-Autonomy-Cover-1920" transform="translate(-267.000000, -8993.000000)" fill-rule="nonzero">
+            <g id="02-2-10-data-sharing" transform="translate(267.000000, 8993.000000)">
+                <g id="подложка" fill="#E9EBF4">
+                    <path d="M0,0 L64.0002,0 L64.0002,64.0002 L14.5455,64.0002 C6.51224217,64.0002 0,57.4879578 0,49.4547 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(14.545000, 19.255000)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="-1.77635684e-15 21.472 23.273 44.745 49.455 44.745 49.455 14.545 34.91 3.55271368e-15"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(11.636300, 14.545000)">
+                    <rect id="Rectangle" fill="#2942D1" x="19.2" y="20.36411" width="2.32727" height="14.54545"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="-1.77635684e-15" y="33.74592" width="40.72727" height="2.32727"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="16.00006" y="32.00045" width="8.72727" height="5.81818"></rect>
+                    <polygon id="Path" fill="#2942D1" points="37.8187 26.182 37.8187 4.71 16.3457 4.71 11.6367 5.32907052e-15 2.9087 5.32907052e-15 2.9087 26.182"></polygon>
+                    <g id="Group" opacity="0.6" transform="translate(2.908700, 0.000000)" fill="#FFFFFF">
+                        <polygon id="Path" points="34.91 26.182 34.91 4.71 13.437 4.71 8.728 0 -1.77635684e-15 0 -1.77635684e-15 26.182"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

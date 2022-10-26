@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01-1-02-risk management@3x</title>
+    <g id="-------Industries" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-1-1-Industries-1920" transform="translate(-916.000000, -3179.000000)">
+            <g id="Group-3" transform="translate(161.000000, 3110.000000)">
+                <g id="2" transform="translate(547.000000, 0.000000)">
+                    <g id="01-1-02-risk-management" transform="translate(208.000000, 69.000000)">
+                        <g id="bg" fill="#E9EBF4" fill-rule="nonzero">
+                            <g id="подложка">
+                                <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                            </g>
+                        </g>
+                        <g id="shadow" transform="translate(11.454545, 19.090909)" fill="#2942D1" fill-rule="nonzero" opacity="0.1">
+                            <polygon id="Path" points="0 38.1818182 26.3733273 64.5551455 72.5454545 64.9090909 72.5454545 12.5828182 60.4838182 0.521181818 45.8181818 0 21.3531818 0"></polygon>
+                        </g>
+                        <g id="Слой_1" transform="translate(11.454545, 19.090928)">
+                            <path d="M59.1818411,0 L1.90911382,0 C1.40278926,0 0.917200394,0.201126421 0.559174862,0.559151953 C0.20114933,0.917177485 2.29090911e-05,1.40276635 2.29090911e-05,1.90909091 L2.29090911e-05,36.2727273 L61.090932,36.2727273 L61.090932,1.90909091 C61.090932,1.40276666 60.8898042,0.917178384 60.5317789,0.559153071 C60.1737536,0.201127759 59.6881653,0 59.1818411,0 Z" id="Path" fill="#2942D1" fill-rule="nonzero"></path>
+                            <g id="Group" opacity="0.6" transform="translate(0.000023, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                <path d="M59.1818182,0 L1.90909091,0 C1.40276635,0 0.917177485,0.201126421 0.559151953,0.559151953 C0.201126421,0.917177485 0,1.40276635 0,1.90909091 L0,36.2727273 L61.0909091,36.2727273 L61.0909091,1.90909091 C61.0909091,1.40276666 60.8897813,0.917178384 60.531756,0.559153071 C60.1737307,0.201127759 59.6881424,0 59.1818182,0 Z" id="Path"></path>
+                            </g>
+                            <line x1="45.8181818" y1="45.8181627" x2="15.2727273" y2="45.8181627" id="Path" stroke="#2942D1" stroke-width="3.81818182" stroke-linejoin="round"></line>
+                            <rect id="Rectangle" fill="#2942D1" fill-rule="nonzero" x="19.0909091" y="34.3636173" width="22.9090909" height="11.4545455"></rect>
+                            <rect id="Rectangle" fill="#2942D1" fill-rule="nonzero" x="0" y="34.3636173" width="61.0909091" height="3.81818182"></rect>
+                        </g>
+                        <g id="Слой_4">
+                            <rect id="Rectangle" x="0" y="0" width="84" height="84"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

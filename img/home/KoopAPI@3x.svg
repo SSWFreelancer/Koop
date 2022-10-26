@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="510px" height="410px" viewBox="0 0 510 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Koop API@3x</title>
+    <defs>
+        <circle id="path-1" cx="33.5" cy="33.5" r="33.5"></circle>
+        <circle id="path-3" cx="33.5" cy="33.5" r="33.5"></circle>
+        <circle id="path-5" cx="33.5" cy="33.5" r="33.5"></circle>
+        <ellipse id="path-7" cx="33.5" cy="33.6421053" rx="33.5" ry="33.6421053"></ellipse>
+    </defs>
+    <g id="Koop-API" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#222222" opacity="0" x="0" y="0" width="510" height="410"></rect>
+        <g id="Vehicle-API" transform="translate(51.000000, 0.000000)">
+            <ellipse id="Oval" cx="203.5" cy="203" rx="203.5" ry="203"></ellipse>
+            <circle id="Oval" fill="#3D3D3D" cx="204" cy="203" r="172"></circle>
+            <ellipse id="Oval" fill="#565658" cx="204" cy="203.5" rx="141" ry="141.5"></ellipse>
+            <circle id="Oval" fill="#727274" cx="203.5" cy="203.5" r="105.5"></circle>
+            <circle id="Oval" cx="203" cy="202" r="70"></circle>
+            <g id="Group-12" transform="translate(162.000000, 166.221716)">
+                <g id="Group-9">
+                    <rect id="Rectangle" fill="#222222" x="0" y="0" width="82.8150647" height="20.9018309" rx="4.54304636"></rect>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="11.0126416" cy="10.8863703" rx="3.96455097" ry="3.9190933"></ellipse>
+                    <rect id="Rectangle" fill="#FFFFFF" opacity="0.316848028" x="41.4075323" y="7.8381866" width="34.3594417" height="5.22545773"></rect>
+                </g>
+                <g id="Group-10" transform="translate(0.000000, 25.764706)">
+                    <rect id="Rectangle" fill="#222222" x="0" y="0" width="82.8150647" height="20.9018309" rx="4.54304636"></rect>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="11.0126416" cy="10.8863703" rx="3.96455097" ry="3.9190933"></ellipse>
+                    <rect id="Rectangle" fill="#FFFFFF" opacity="0.316848028" x="41.4075323" y="7.8381866" width="34.3594417" height="5.22545773"></rect>
+                </g>
+                <g id="Group-11" transform="translate(0.000000, 50.813725)">
+                    <rect id="Rectangle" fill="#222222" x="0" y="0" width="82.8150647" height="20.9018309" rx="4.54304636"></rect>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="11.0126416" cy="10.8863703" rx="3.96455097" ry="3.9190933"></ellipse>
+                    <rect id="Rectangle" fill="#FFFFFF" opacity="0.316848028" x="41.4075323" y="7.8381866" width="34.3594417" height="5.22545773"></rect>
+                </g>
+            </g>
+            <circle id="Oval" fill="#FFFFFF" cx="105" cy="240" r="2"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="237" cy="34" r="2"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="41" cy="147" r="2"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="198" cy="375" r="2"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="306" cy="183" r="2"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="363" cy="268" r="2"></circle>
+            <polygon id="Path-2" fill="#FFFFFF" points="245 155.544407 253.78366 164 266.658688 150.603763 271.353237 155.137726 275 133 253.168011 137.466571 257.906003 142.070415"></polygon>
+            <polygon id="Path-2" fill="#FFFFFF" transform="translate(146.000000, 147.500000) scale(-1, 1) translate(-146.000000, -147.500000) " points="131 154.544407 139.78366 163 152.658688 149.603763 157.353237 154.137726 161 132 139.168011 136.466571 143.906003 141.070415"></polygon>
+            <polygon id="Path-2" fill="#FFFFFF" transform="translate(261.000000, 256.500000) scale(1, -1) translate(-261.000000, -256.500000) " points="246 263.544407 254.78366 272 267.658688 258.603763 272.353237 263.137726 276 241 254.168011 245.466571 258.906003 250.070415"></polygon>
+            <polygon id="Path-2" fill="#FFFFFF" transform="translate(146.000000, 254.500000) scale(-1, -1) translate(-146.000000, -254.500000) " points="131 261.544407 139.78366 270 152.658688 256.603763 157.353237 261.137726 161 239 139.168011 243.466571 143.906003 248.070415"></polygon>
+            <g id="Fill-5408" transform="translate(277.000000, 274.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#2942D1" xlink:href="#path-1"></use>
+                <g id="0-78" mask="url(#mask-2)">
+                    <g transform="translate(16.288801, 17.537803)">
+                        <g id="shadow" opacity="0.153888081">
+                            <polygon id="Path" fill="#FFFFFF" points="51.6772092 30.9191972 19.1293766 1.41693644e-14 9.79658006e-14 30.9191972 20.3552105 51.4742712 51.6772092 49.4281972"></polygon>
+                        </g>
+                        <g id="Слой_1">
+                            <path d="M15.7532691,1.33333931 L0.357265413,28 C-0.119086765,28.8250682 -0.119088585,29.8415912 0.357260639,30.6666591 C0.833609863,31.4917269 1.71394189,32 2.66664625,32 L33.4586995,32 C34.4114039,32 35.2917359,31.4917269 35.7680851,30.6666591 C36.2444344,29.8415912 36.2444326,28.8250682 35.7680804,28 L20.3720767,1.33333931 C19.8957238,0.50826644 19.0153834,0 18.0626729,0 C17.1099624,0 16.229622,0.50826644 15.7532691,1.33333931 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" fill="#2942D1" fill-rule="nonzero" x="16.9960425" y="7.99988345" width="2.13333411" height="14.0953124"></rect>
+                            <rect id="Rectangle" fill="#2942D1" fill-rule="nonzero" x="16.9960425" y="24.5714978" width="2.13333411" height="2.47604513"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Fill-5408" transform="translate(277.000000, 66.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="#2942D1" xlink:href="#path-3"></use>
+                <g id="02-3-04-increase-adoption" mask="url(#mask-4)">
+                    <g transform="translate(13.894230, 14.000000)">
+                        <g id="shadow" opacity="0.153888081">
+                            <polygon id="Path" fill="#FFFFFF" points="28.4814164 6.52551952 20.9690358 0 3.46109142e-13 19.2556626 11.7098361 30.9497544 2.22550706 37.7419997 19.1834501 55.0803772 49.7903386 50 54.1057698 22.3070284 38.3088315 6.44441041"></polygon>
+                        </g>
+                        <g id="Слой_1" transform="translate(1.105770, 1.000000)">
+                            <rect id="Rectangle" fill="#CCD2F4" x="2.60512815" y="21.3070284" width="9.77760364" height="13.3168927"></rect>
+                            <rect id="Rectangle" fill="#CCD2F4" x="15.049351" y="14.2046856" width="9.77760364" height="21.3070284"></rect>
+                            <rect id="Rectangle" fill="#CCD2F4" x="27.4935738" y="5.32675709" width="9.77760364" height="30.1849568"></rect>
+                            <line x1="1.11973725" y1="35.5561036" x2="39" y2="35.5561036" id="Path" stroke="#FFFFFF" stroke-width="2.24145455"></line>
+                            <line x1="0" y1="18.9050754" x2="18.0776803" y2="0.84936413" id="Path" stroke="#FFFFFF" stroke-width="2.144"></line>
+                            <polyline id="Path" stroke="#FFFFFF" stroke-width="2.144" points="10.8070023 0 18.9280698 0 18.9280698 8.1111983"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Fill-5408" transform="translate(62.000000, 66.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Mask" fill="#2942D1" xlink:href="#path-5"></use>
+                <g id="02-2-04-ride-hail-robotaxis" mask="url(#mask-6)">
+                    <g transform="translate(12.181818, 12.181818)">
+                        <g id="shadow" transform="translate(0.000000, 17.054546)" opacity="0.153888081">
+                            <polygon id="Path" fill="#FFFFFF" points="0 19.4909091 18.2727273 37.7636364 54.8181818 37.7636364 54.8181818 12.1818182 42.6363636 0"></polygon>
+                        </g>
+                        <g id="Слой_1">
+                            <polygon id="Path" fill="#2942D1" fill-rule="nonzero" points="36.5454545 34.1090913 36.5454545 18.3257185 6.09090909 18.3257185 6.09090909 34.1090913 0 34.1090913 0 36.5454549 6.09090909 36.5454549 36.5454545 36.5454549 42.6363636 36.5454549 42.6363636 34.1090913"></polygon>
+                            <polygon id="Path" fill="#CCD2F4" points="36.5454545 34.1090913 36.5454545 18.3257185 6.09090909 18.3257185 6.09090909 34.1090913 0 34.1090913 0 36.5454549 6.09090909 36.5454549 36.5454545 36.5454549 42.6363636 36.5454549 42.6363636 34.1090913"></polygon>
+                            <polygon id="Path" fill="#2942D1" fill-rule="nonzero" points="16.7783227 34.1090913 17.7513455 30.4545458 11.0504318 18.2727276 1.52272727 18.2727276 1.52272727 22.8409094 0 25.886364 0 34.1090913"></polygon>
+                            <polygon id="Path" fill="#A1AEE9" fill-rule="nonzero" opacity="0.6" points="16.7783227 34.1090913 17.7513455 30.4545458 11.0504318 18.2727276 1.52272727 18.2727276 1.52272727 22.8409094 0 25.886364 0 34.1090913"></polygon>
+                            <polygon id="Path" fill="#2942D1" fill-rule="nonzero" points="25.9862545 34.1090913 25.0129273 30.4545458 31.7141455 18.2727276 41.24185 18.2727276 41.24185 22.8409094 42.7645773 25.886364 42.7645773 34.1090913"></polygon>
+                            <polygon id="Path" fill="#A1AEE9" fill-rule="nonzero" opacity="0.6" points="25.9862545 34.1090913 25.0129273 30.4545458 31.7141455 18.2727276 41.24185 18.2727276 41.24185 22.8409094 42.7645773 25.886364 42.7645773 34.1090913"></polygon>
+                            <g id="self2-link" transform="translate(13.825797, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                                <g id="self2">
+                                    <path d="M7.49236941,6.09090944 C6.25387153,6.09142888 5.07715383,6.63192246 4.26980645,7.57110694 L5.98674236,9.32135099 C6.32681695,8.82440517 6.89020024,8.52727248 7.49236789,8.52727248 C8.09453553,8.52727248 8.65791882,8.82440517 8.99799341,9.32135099 L10.7149293,7.57118308 C9.90762269,6.6319368 8.73088761,6.09140692 7.49236941,6.09090944 Z" id="Path"></path>
+                                    <path d="M7.49236941,0 C4.65903415,-0.000739530531 1.94993263,1.16308084 0,3.21869558 L1.70585655,4.95756181 C3.20068361,3.34975484 5.29705833,2.43636559 7.49240595,2.43636559 C9.68775358,2.43636559 11.7841283,3.34975484 13.2789554,4.95756181 L14.9847358,3.21869558 C13.0348043,1.163081 10.3257038,-0.000739413323 7.49236941,0 L7.49236941,0 Z" id="Path"></path>
+                                </g>
+                            </g>
+                            <path d="M39.6557285,17.2567366 L39.6557285,18.2739458 L3.110274,18.2739458 L3.110274,17.2567366 C15.0544704,13.8539934 27.7115321,13.8539934 39.6557285,17.2567366 L39.6557285,17.2567366 Z" id="Path" fill="#2942D1" fill-rule="nonzero"></path>
+                            <path d="M39.6557285,17.2567366 L39.6557285,18.2739458 L3.110274,18.2739458 L3.110274,17.2567366 C15.0544704,13.8539934 27.7115321,13.8539934 39.6557285,17.2567366 L39.6557285,17.2567366 Z" id="Path" fill="#A1AEE9" fill-rule="nonzero" opacity="0.6"></path>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="17.0545458" width="42.6363636" height="2.43636364"></rect>
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="7.61363636" cy="35.2164064" r="4.56818182"></circle>
+                            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="35.0227273" cy="35.2164064" r="4.56818182"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Fill-1394" transform="translate(62.000000, 273.218941)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Mask" fill="#2942D1" xlink:href="#path-7"></use>
+                <g id="0-79" mask="url(#mask-8)">
+                    <g transform="translate(19.298260, 16.402969)">
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="evenodd" opacity="0.153888081" points="46.488 52.31109 17.513 52.31109 0 34.79909 29.055 5.74409 46.622 23.31109"></polygon>
+                        <rect id="Rectangle" fill="#A9B3ED" fill-rule="nonzero" x="0.13461" y="5.81096" width="29.05479" height="29.05479"></rect>
+                        <polygon id="Path" fill="#697ADF" fill-rule="nonzero" points="5.946 29.05509 29.189 17.43309 29.189 34.86609 11.717 34.86609"></polygon>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="11.717 34.86609 17.726 34.86609 0.135 20.33809 0.135 34.86609"></polygon>
+                        <path d="M8.83845,0 C7.29394586,0 5.81269953,0.613546686 4.7205683,1.70567416 C3.62843708,2.79780164 3.01488,4.27904586 3.01488,5.82355 C3.01488,11.6282 8.83845,17.43288 8.83845,17.43288 C8.83845,17.43288 14.662,11.6282 14.662,5.82355 C14.662,2.60729215 12.0547079,0 8.83845,0 Z M8.83845,8.38631 C7.80190852,8.38631 6.86742709,7.76192679 6.47075423,6.80428965 C6.07408137,5.84665251 6.2933353,4.74436047 7.02627795,4.0114121 C7.75922061,3.27846373 8.86151094,3.05920119 9.81915117,3.45586658 C10.7767914,3.85253196 11.40119,4.78700852 11.40119,5.82355 C11.40119,7.23891546 10.2538155,8.38631 8.83845,8.38631 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

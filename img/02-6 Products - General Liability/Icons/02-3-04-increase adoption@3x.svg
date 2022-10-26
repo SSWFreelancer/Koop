@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>02-3-04-increase adoption@3x</title>
+    <g id="--------General-Liability" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-6-1-General-Liability-1920" transform="translate(-979.000000, -2785.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(979.000000, 2180.000000)">
+                <g id="02-3-04-increase-adoption" transform="translate(0.000000, 605.000000)">
+                    <g id="подложка" fill="#E9EBF4" transform="translate(0.000000, 0.000000)">
+                        <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                    </g>
+                    <g id="shadow" transform="translate(11.454152, 13.739181)" fill="#2942D1" opacity="0.1">
+                        <polygon id="Path" points="57.3232584 9.17040884 41.9998688 9.17040884 32.0852747 0 2.65780419 27.0584154 19.0915653 43.4908641 0 56.4281362 13.7142696 70.1424058 72.5298358 70.2605304 72.5298358 24.3769863"></polygon>
+                    </g>
+                    <g id="Слой_1" transform="translate(11.454690, 13.745743)">
+                        <rect id="Rectangle" fill="#2942D1" x="3.81798494" y="34.1549364" width="15.2726748" height="20.826383"></rect>
+                        <g id="Group" opacity="0.6" transform="translate(3.817985, 34.154936)" fill="#FFFFFF">
+                            <rect id="Rectangle" x="0" y="0" width="15.2726748" height="20.826383"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#2942D1" x="22.9088415" y="22.0327243" width="15.2726748" height="32.948582"></rect>
+                        <g id="Group" opacity="0.6" transform="translate(22.908842, 22.032724)" fill="#FFFFFF">
+                            <rect id="Rectangle" x="0" y="0" width="15.2726748" height="32.948582"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#2942D1" x="41.999685" y="9.16326886" width="15.3227202" height="45.8180374"></rect>
+                        <g id="Group" opacity="0.6" transform="translate(41.999685, 9.163269)" fill="#FFFFFF">
+                            <rect id="Rectangle" x="-1.42108547e-14" y="0" width="15.3227202" height="45.8180374"></rect>
+                        </g>
+                        <rect id="Rectangle" fill="#2942D1" x="0" y="53.4540598" width="61.0907122" height="3.05453233"></rect>
+                        <rect id="Rectangle" fill="#2942D1" transform="translate(16.596747, 15.475404) rotate(-44.995050) translate(-16.596747, -15.475404) " x="-1.43308174" y="13.9481636" width="36.0596567" height="3.05447983"></rect>
+                        <polygon id="Path" fill="#2942D1" points="32.0729241 12.9818969 29.0187462 12.9818969 29.0187462 3.05417796 19.0910272 3.05417796 19.0910272 0 32.0729241 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

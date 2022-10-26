@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>05-1-01-customers@3x</title>
+    <g id="-------Singularity-Platform" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-1-1-Singularity-Platform-1920" transform="translate(-371.000000, -1349.000000)" fill-rule="nonzero">
+            <g id="05-1-01-customers" transform="translate(371.000000, 1349.000000)">
+                <g id="подложка" fill="#E9EBF4" transform="translate(0.000000, -0.000000)">
+                    <path d="M0,0 L84,0 L84,83.9993963 L19.0909091,83.9993963 C8.54729114,83.9993963 0,75.4521665 0,64.9086244 L0,0 Z" id="Path"></path>
+                </g>
+                <g id="shadow" transform="translate(19.090253, 22.909005)" fill="#2942D1" opacity="0.1">
+                    <polygon id="Path" points="45.8192318 0 -2.33146107e-15 45.8189025 15.2735148 61.090995 64.9094847 61.0896825 64.9094847 19.0901156"></polygon>
+                </g>
+                <g id="Слой_1" transform="translate(19.090843, 15.272959)">
+                    <polygon id="Path" fill="#2942D1" points="15.2729241 0 15.2729241 53.4549487 45.8186412 53.4549487 45.8186412 7.63604625"></polygon>
+                    <g id="Group" opacity="0.6" transform="translate(15.272924, 0.000000)" fill="#FFFFFF">
+                        <polygon id="Path" points="0 0 0 53.4549487 30.545717 53.4549487 30.545717 7.63604625"></polygon>
+                    </g>
+                    <rect id="Rectangle" fill="#2942D1" x="29.0181556" y="11.45403" width="3.05453233" height="34.3632844"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="36.654493" y="11.45403" width="3.05453233" height="34.3632844"></rect>
+                    <rect id="Rectangle" fill="#2942D1" x="0" y="19.2048532" width="22.9090253" height="34.2494787"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>01-1-03-insurance benefits@3x</title>
+    <g id="-------Industries" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-1-1-Industries-1920" transform="translate(-1464.000000, -3179.000000)">
+            <g id="Group-3" transform="translate(161.000000, 3110.000000)">
+                <g id="3" transform="translate(1094.000000, 0.000000)">
+                    <g id="01-1-03-insurance-benefits" transform="translate(209.000000, 69.000000)">
+                        <g id="bg" fill="#E9EBF4" fill-rule="nonzero">
+                            <g id="подложка">
+                                <path d="M0,0 L84,0 L84,84 L19.0909091,84 C8.54729114,84 0,75.4527089 0,64.9090909 L0,0 Z" id="Path"></path>
+                            </g>
+                        </g>
+                        <g id="shadow" transform="translate(11.454545, 22.909091)" fill="#2942D1" fill-rule="nonzero" opacity="0.1">
+                            <polygon id="Path" points="0 38.1818182 22.9090909 61.0909091 72.5454545 61.0909091 72.5454545 7.63636364 64.9090909 0"></polygon>
+                        </g>
+                        <g id="Слой_1" transform="translate(11.454545, 22.909091)">
+                            <rect id="Rectangle" fill="#2942D1" fill-rule="nonzero" x="7.63636364" y="0" width="57.2727273" height="30.5454545"></rect>
+                            <rect id="Rectangle" fill="#2942D1" fill-rule="nonzero" x="0" y="7.63636364" width="57.2727273" height="30.5454545"></rect>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" opacity="0.6" x="0" y="7.63636364" width="57.2727273" height="30.5454545"></rect>
+                            <line x1="28.6363636" y1="11.4545455" x2="28.6363636" y2="15.2727273" id="Path" stroke="#2942D1" stroke-width="3.05454545"></line>
+                            <path d="M22.2645818,30.5454545 L30.1851938,30.5454545 C32.2939174,30.5454545 34.0033756,28.8359963 34.0033756,26.7272727 C34.0033756,24.6185491 32.2939174,22.9090909 30.1851938,22.9090909 L27.0875258,22.9090909 C24.9788022,22.9090909 23.269344,21.1996327 23.269344,19.0909091 C23.269344,16.9821855 24.9788022,15.2727273 27.0875258,15.2727273 L34.0536,15.2727273" id="Path" stroke="#2942D1" stroke-width="3.05454545"></path>
+                            <line x1="28.6363636" y1="30.5454545" x2="28.6363636" y2="34.3636364" id="Path" stroke="#2942D1" stroke-width="3.05454545"></line>
+                            <line x1="28.6363636" y1="11.4545455" x2="28.6363636" y2="15.2727273" id="Path" stroke="#2942D1" stroke-width="3.05454545"></line>
+                        </g>
+                        <g id="Слой_4">
+                            <rect id="Rectangle" x="0" y="0" width="84" height="84"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
